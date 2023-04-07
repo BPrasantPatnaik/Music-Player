@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660307078 source:c:\users\lenovo\desktop\project\music_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1660307078 source:c:\users\lenovo\desktop\project 2\music_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
