@@ -45,8 +45,6 @@ void first_page()
         printf("~~~~~~~~~~~~~\n\n");
         printf("__________________________\n");
         printf("|                         |\n");
-        printf("|  Harshit Goel           |\n");
-        printf("|  Sthiti Pragyan Panda   |\n");
         printf("|  B.Prasant Patnaik      |\n");
         printf("|_________________________|\n\n");
 
